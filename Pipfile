@@ -16,6 +16,8 @@ gunicorn = "*"
 sklearn = "*"
 numpy = "*"
 heroku = "*"
+psycopg2-binary = "*"
+setuptools = "*"
 
 [requires]
 python_version = "3.7"
